@@ -1,0 +1,19 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -86.7551141, 
+                    33.3891409
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "Boy Futz looked awesome thurs against a weak D. Hmm. Next 3 wks he's reason Jets lose. Lol", 
+                "created_at": "Sun Sep 18 03:18:25 +0000 2016"
+            }
+        }
+    ]
+}

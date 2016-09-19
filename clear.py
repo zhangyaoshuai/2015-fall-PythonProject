@@ -1,0 +1,1 @@
+open('term_freq_football.json', 'w').close()
